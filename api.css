@@ -1,0 +1,32 @@
+html{
+  position: relative;
+  background-color:#212529
+  
+}
+
+body{
+  text-align: center;
+  background-color:#212529
+
+}
+
+img{
+    border-radius: 90px;
+    align-content: center;
+    }
+
+.btn{
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 1% auto;
+    width: 180px;
+    height: 50px;
+    background: -webkit-linear-gradient(45deg, rgba(199,95,142,1) 0%, rgba(54,128,217,1) 100%);
+  }
+  
+
+.carousel{
+    background-color: rgb(125, 31, 176);
+    margin-top: 90px;
+    padding: 20px;
+}
